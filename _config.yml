@@ -1,3 +1,2 @@
-# add the following to _config.yml file
-title: Aadarsh Jayadeep
-theme: jekyll-theme-minima
+# install.packages("devtools")
+devtools::install_github("business-science/portfoliodown")
